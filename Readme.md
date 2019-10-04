@@ -10,6 +10,7 @@ Describe my project here
 * bulleted list item 4
 
 1. Number list 1 
-1. Number list 2 
-1. Number list 3 
-1. Number list 4 
+2. Number list 2 
+3. Number list 3 
+4. Number list 4 
+
